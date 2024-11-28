@@ -1,3 +1,4 @@
+
 export const educations = [
   {
     id: 1,

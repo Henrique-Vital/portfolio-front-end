@@ -7,7 +7,7 @@
   --start: 0;
 }
 
-.glow-card:is(:hover, :focus-visible) {
+.glow-card:is(:hover, :focus-visible)  {
   z-index: 2;
 }
 
