@@ -1,4 +1,4 @@
-import travel from '/public/image/travel.jpg';
+
 
 export const projectsData = [
     {

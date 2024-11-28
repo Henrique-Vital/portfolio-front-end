@@ -1,4 +1,5 @@
 // @flow strict
+import * as React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaGithub } from 'react-icons/fa';
